@@ -22,7 +22,7 @@ Feel free to explore my repositories to see the projects I've been working on an
 |---------|-------------|
 | **[Size Büyük İyilik İçin Haskell Öğrenin!](https://github.com/unalman/learn-you-a-haskell-tr)** | A Turkish translation of a popular Haskell tutorial, aimed at helping Turkish-speaking learners grasp functional programming concepts in Haskell. |
 | **[Learn New Words](https://github.com/unalman/Learn-New-Words)** | A web application designed to help users expand and retain their vocabulary by learning new words. Used technologies: Go, PostgreSQL, ORM, Vue.js, TypeScript, Pinia, Axios, Vitest, Cypress, go-sqlmock, testify/assert
- |
+ 
 ## 📫 How to Reach Me  
 - 📧 Email: [sadikunalcokunlu@gmail.com]  
 - 💼 LinkedIn: [https://www.linkedin.com/in/sadikunalcokunlu]  
