@@ -25,4 +25,4 @@ Feel free to explore my repositories to see the projects I've been working on an
  
 ## 📫 How to Reach Me  
 - 📧 Email: [sadikunalcokunlu@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/sadikunalcokunlu]  
+- 💼 LinkedIn: [linkedin.com/in/sadikunalcokunlu]  
