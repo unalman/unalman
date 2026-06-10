@@ -10,13 +10,6 @@ Feel free to explore my repositories to see the projects I've been working on an
 - C# & .NET (ASP.NET Core, Entity Framework) .
 - Web Development (Javascript, JQuery).
 - Database (MongoDB, PostgreSQL).
-## 🌱 I’m Learning & Exploring  
-- Learning **Go** for backend services.
-- Exploring **Vue.js** for frontend development.
-- Exploring **TypeScript** to add type-safety.
-- Learning **Vitest** (unit & component testing with modern JS/TS).  
-- Learning **Cypress** for end-to-end testing in web applications.
-- Learning **Docker** to containerize applications and streamline deployments.
 ## 📂 Featured Projects  
 | Project | Description |
 |---------|-------------|
