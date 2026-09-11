@@ -7,8 +7,8 @@ This approach not only enhances my technical abilities but also fosters a mindse
 Feel free to explore my repositories to see the projects I've been working on and the progress I've made.
 
 ## 🧠 My Expertise  
-- C# & .NET (ASP.NET Core, Entity Framework) .
-- Web Development (Javascript, JQuery).
+- C# & .NET (ASP.NET Core, Entity Framework).
+- Web Development (JavaScript, TypeScript, Vue).
 - Database (MongoDB, PostgreSQL).
 ## 📂 Featured Projects  
 | Project | Description |
